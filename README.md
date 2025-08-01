@@ -1,4 +1,4 @@
-# Python para Análisis Económico y Financiero: Código y Ejercicios del Libro
+# Python para Economistas: Código y Ejercicios del Libro
 
 ¡Bienvenido al repositorio oficial del libro! 🚀
 
@@ -6,9 +6,11 @@ Este espacio contiene todo el código fuente, los conjuntos de datos y los ejerc
 
 ## 📖 Sobre el Libro
 
-Este libro está diseñado como una guía práctica e intensiva para estudiantes, profesionales y entusiastas de la economía, las finanzas y la ciencia de datos que deseen dominar Python como herramienta para el análisis cuantitativo.
+El presente libro, pretende ser una herramienta introductoria a la programación en Python, orientada especialmente a estudiantes y profesionales de la economía y disciplinas afines que desean incorporar habilidades computacionales en su trabajo académico o aplicado. En un contexto donde el análisis de datos y la automatización de procesos han adquirido un papel central en la investigación económica, el conocimiento de herramientas de programación se ha vuelto no solo deseable, sino indispensable para quienes buscan profundizar en el estudio de fenómenos económicos con enfoques cuantitativos. 
 
-El enfoque es 100% aplicado. Partimos de los fundamentos de la programación y avanzamos progresivamente hasta la construcción de simulaciones y modelos de Machine Learning, siempre utilizando ejemplos y contextos relevantes para el mundo económico y financiero. Al finalizar, no solo entenderás la sintaxis, sino que sabrás cómo aplicar estas herramientas para resolver problemas del mundo real.
+Lejos de ser un manual exclusivamente técnico, creemos que este libro puede ofrecer una perspectiva práctica sobre como Python puede potenciar la labor del economista contemporáneo, permitiéndole trabajar con bases de datos, replicar investigaciones empíricas con mayor transparencia y eficiencia, y colaborar con profesionales de otras disciplinas como la ciencia de datos, la ingeniería o la informática por mencionar algunas. 
+
+Esperamos que este libro sirva como punto de partida para aquellos que deseen iniciarse en el mundo de la programación con Python, y como un puente hacia una práctica profesional y académica más integrada con las tecnologías emergentes. 
 
 ## 📊 Contenido Principal
 
@@ -25,3 +27,7 @@ El libro cubre un flujo de trabajo completo de análisis de datos, organizado en
 ## 📁 Estructura del Repositorio
 
 El código está organizado en carpetas que corresponden a cada capítulo del libro.
+
+Apéndice Ejercicios: carpetas que contienen notebooks de los ejercicios para cada capítulo.  
+Archivos de datos: 2 archivos de datos que su usan para algunos de los notebooks en los capítulos del libro.
+Capítulos código: notebooks que contienen el código que se muestra en el libro para cada capítulo. 

@@ -28,6 +28,6 @@ El libro cubre un flujo de trabajo completo de análisis de datos, organizado en
 
 El código está organizado en carpetas que corresponden a cada capítulo del libro.
 
-Apéndice Ejercicios: carpetas que contienen notebooks de los ejercicios para cada capítulo.  
-Archivos de datos: 2 archivos de datos que su usan para algunos de los notebooks en los capítulos del libro.
-Capítulos código: notebooks que contienen el código que se muestra en el libro para cada capítulo. 
+* Apéndice Ejercicios: carpetas que contienen notebooks de los ejercicios para cada capítulo.  
+* Archivos de datos: 2 archivos de datos que su usan para algunos de los notebooks en los capítulos del libro.
+* Capítulos código: notebooks que contienen el código que se muestra en el libro para cada capítulo. 

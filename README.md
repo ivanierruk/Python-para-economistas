@@ -3,3 +3,6 @@ Repositorio para el libro "Python para economistas" el cual contiene notebooks e
 
 
 Acabo de hacer un cambio 
+
+
+
